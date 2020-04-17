@@ -101,8 +101,11 @@ body {
 #ayudarte #servicios article {
   background-color: #ffb300;
   color: white;
-  max-width: 25%;
+  max-width: 20%;
   border: 2px solid blue;
+}
+#ayudarte #servicios .especial{
+  max-height: 215px;
 }
 
 #ayudarte #servicios article p {
