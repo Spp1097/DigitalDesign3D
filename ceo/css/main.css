@@ -36,11 +36,11 @@ padding-top: 20px;
     color: rgb(243, 238, 220);
     background-color: orange;
     font-size: medium;
-    transition-delay: 0.5s;
+    
   }
   
   #menu a:active {
-    color: black;
+    color: red;
   }
   
   #menu .activo {
